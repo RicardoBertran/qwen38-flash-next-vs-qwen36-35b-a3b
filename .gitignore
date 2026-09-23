@@ -1,0 +1,8 @@
+.generated/
+*.gguf
+*.ggml
+*.safetensors
+*.bin
+*.zip
+models/
+
